@@ -1,4 +1,5 @@
 # hello-me
 podoba sie ci
-stare zmiany
-Nowe zmiany od innego uzytkownika
+nowe zmiany
+nie lubie
+Nowe zmiany od innego usera
